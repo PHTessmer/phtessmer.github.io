@@ -12,7 +12,7 @@ body {
 hr {
   max-width: 65px;
   border-width: 3px;
-  border-color: #F05F44; 
+  border-color: #182743; 
 }
 
 .faded {
@@ -21,7 +21,7 @@ hr {
 
 header.startup {
   background-position: center;
-  background-image: url("header.jpg");
+  background-image: url("header2.jpg");
   background-size: cover;
   height: 100%;
 }
@@ -47,12 +47,12 @@ header.startup h1 {
 }
 
 .btn-primary {
-  background-color: #F05F44;
-  border-color: #F05F44; }
+  background-color: #182743;
+  border-color: #182743; }
 
 .btn-primary:hover {
-  background-color: #ee4b08;
-  border-color: #ee4b08;
+  background-color: #182743;
+  border-color: #08b8ee;
   border-width: 5px;
   cursor: pointer;
 }
